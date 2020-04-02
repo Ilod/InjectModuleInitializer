@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>EinarEgilsson.Utilities.InjectModuleInitializer</RootNamespace>
     <AssemblyName>InjectModuleInitializer</AssemblyName>
-    <TargetFramework>net35</TargetFramework>
+    <TargetFramework>net45</TargetFramework>
     <DefaultItemExcludes>*.binlog;Test\**\*.*;nuget\**\*.*</DefaultItemExcludes>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
